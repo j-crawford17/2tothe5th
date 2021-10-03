@@ -1,3 +1,4 @@
+# cerner_2tothe5th_2021
 # variables
 $nums = @(2, 7, 11, 15)
 $target = 18
